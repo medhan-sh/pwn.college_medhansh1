@@ -1,6 +1,6 @@
-# Challenge Name
+#  Pondering Paths 
 
-### Put challenge description here
+### Program and absolute paths
 
 **Flag:** `pwn.college{8-JbMFXruOvbYuQDxL6nwDdkJ_Z.QX1QTN0wiN2kjNzEzW}`
 
