@@ -14,9 +14,9 @@ pwn.college{0kwFOQBa49UBhe-LO_a7iqHDrEf.QX3YjM1wiN2kjNzEzW}
 
 ## What I learned
 
-1. How basic commands are supposed to word.
+1. How basic commands are supposed to work.
 2. Linux is a case sensitive language hello is different from HELLO .
 
 ## References
 
-none
+None.
