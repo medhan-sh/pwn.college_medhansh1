@@ -17,9 +17,7 @@ pwn.college{ws6hS2Jh_lei8K2pU-nAe53XbsM.QX4cTO0wiN2kjNzEzW}
 
 1. How to run a program using its absolute path .
 2. The program was places in root directory represented by '/'.
-3. Absolute path is the exact location kind of like GPS coordinates.
-4. Commands can be executed regardless of which directory one person is in as long as you know the absolute path to it.
-
+3. Absolute path is the exact location to a file,command,directory , kind of like GPS coordinates.
 
 ## References
 
