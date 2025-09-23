@@ -7,17 +7,16 @@
 Read the instructions associcated with the challenge 
 
 ```
-#!/bin/bash
-
-example triple ticks for bash
-
-pwn.college{helloworld}
+hacker@hello~intro-to-commands:~$ hello
+Success! Here is your flag:
+pwn.college{0kwFOQBa49UBhe-LO_a7iqHDrEf.QX3YjM1wiN2kjNzEzW}
 ```
 
 ## What I learned
 
-explain what you learned
+>how basic commands are supposed to word
+>Linux is a case sensitive language hello is different from HELLO 
 
 ## References
 
-Add an references or videos you used while solving the challenge.
+none
