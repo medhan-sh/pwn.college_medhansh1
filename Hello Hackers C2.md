@@ -1,6 +1,6 @@
-# Challenge Name
+# Hello Hackers 
 
-### Hello Hackers: Intro To Arguments 
+### Intro To Arguments 
 
 **Flag:** `pwn.college{sJchFAHHPBq1AOCEvEqTCfcW5zK.QX4YjM1wiN2kjNzEzW}`
 
