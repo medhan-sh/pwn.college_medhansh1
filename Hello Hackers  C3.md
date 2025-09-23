@@ -1,27 +1,20 @@
-# Challenge Name
+# Hello Hackers
 
-### Put challenge description here
+### Command History 
 
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{wloMvYJh5c5eHk6UDt6ZtqBnPxX.0lNzEzNxwiN2kjNzEzW}`
 
-explain your solve and how you got to it, explain any incorrect tangents you went on while solving.
-
-to put code snippets, put three backticks and for images and all other stuff you wish to put here, refer to the documentation given to you.
-
-don't style it too much, your solve should be readable and understandable by you so that when you have doubts, you refer to your own writeups, instead of gpt.
+Followed through the instructions 
 
 ```
-#!/bin/bash
-
-example triple ticks for bash
-
-pwn.college{helloworld}
+the flag is pwn.college{wloMvYJh5c5eHk6UDt6ZtqBnPxX.0lNzEzNxwiN2kjNzEzW}
 ```
 
 ## What I learned
 
-explain what you learned
+1. The shell saves a history of every command we invoke .
+2. It can be accessed by using arrow keys to toggle .
 
 ## References
 
-Add an references or videos you used while solving the challenge.
+None.
