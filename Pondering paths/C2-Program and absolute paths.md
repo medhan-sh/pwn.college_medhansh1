@@ -18,8 +18,8 @@ hacker@paths~program-and-absolute-paths:~$ pwd
 
 ## What I learned
 
-1. One can run a command regardless of their current position if you know the absolute path to it 
-2. Unlike the first challenge command was inside the root directory, the command was in another challenge directory       which was inside root directory /challenge/run 
+1. One can run a command regardless of their current position if you know the absolute path to it .
+2. Unlike the first challenge where command was inside the root directory, the command was in another challenge           directory which was inside root directory /challenge/run .
 
 ## References
 
