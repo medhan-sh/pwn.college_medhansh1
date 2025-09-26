@@ -2,26 +2,24 @@
 
 ### listing files
 
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{sj-uMzX6cmQl07mUSoIc92ZEHP0.QX4IDO0wiN2kjNzEzW}`
 
-explain your solve and how you got to it, explain any incorrect tangents you went on while solving.
-
-to put code snippets, put three backticks and for images and all other stuff you wish to put here, refer to the documentation given to you.
-
-don't style it too much, your solve should be readable and understandable by you so that when you have doubts, you refer to your own writeups, instead of gpt.
+Used ls to find the files in challenge directory the solve after that was straightforward 
 
 ```
-#!/bin/bash
-
-example triple ticks for bash
-
-pwn.college{helloworld}
+hacker@commands~listing-files:~$ ls /challenge 
+6814-renamed-run-12723  DESCRIPTION.md
+hacker@commands~listing-files:~$ /challenge/6814-renamed-run-12723
+Yahaha, you found me! Here is your flag:
+pwn.college{sj-uMzX6cmQl07mUSoIc92ZEHP0.QX4IDO0wiN2kjNzEzW}
 ```
 
 ## What I learned
 
-explain what you learned
+1. Intro to ls command. 
+2. 'ls' command is used to list files in a directory if used without arguments it would list out files in the current      directory.
+
 
 ## References
 
-Add an references or videos you used while solving the challenge.
+NONE 
