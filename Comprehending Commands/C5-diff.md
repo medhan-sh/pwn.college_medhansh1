@@ -4,7 +4,7 @@
 
 **Flag:** `pwn.college{8wmxIcKq-SPqf2b5-elWoNP1aOa.01MwMDOxwiN2kjNzEzW}`
 
-Used the diff command as instructed 
+Used the `diff` command as instructed 
 
 ```
 hacker@commands~comparing-files:~$ diff /challenge/decoys_only.txt /challenge/decoys_and_real.txt
