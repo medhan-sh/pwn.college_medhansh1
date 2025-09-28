@@ -4,7 +4,7 @@
 
 **Flag:** `pwn.college{81VbiaG8p6JFiIzJ2kpF_yv7JUQ.QX5ETN1wiN2kjNzEzW}`
 
-The content of the challenge were a little confusing to understand what they wanted was for me to link `/not-the-flag' to the actual flag so everytime i run /challenge/catflag it gives me the actual flag.
+The content of the challenge were a little confusing to understand what they wanted was for me to link `/not-the-flag` to the actual flag so everytime i run `/challenge/catflag` it gives me the actual flag.
 
 ```
 hacker@commands~linking-files:~$ /challenge/catflag
@@ -18,7 +18,7 @@ pwn.college{81VbiaG8p6JFiIzJ2kpF_yv7JUQ.QX5ETN1wiN2kjNzEzW}
 
 ## What I learned
 
-1. Symbolic link acts as shortcuts to another file or directory we operate it using the ln -s command.
+1. Symbolic link acts as shortcuts to another file or directory we operate it using the `ln -s` command.
 2. Linking files to redirect the output from one to another. 
 
 ## References
