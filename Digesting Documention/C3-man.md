@@ -4,7 +4,7 @@
 
 **Flag:** `pwn.college{cACMq6eLzxepz1k0kC5Y5UBmIt6.QX0EDO0wiN2kjNzEzW}`
 
-Did not pay a lot of attention to the manual first missed the correct argument , went through the manual again to find the correct argument to obtain the flag. 
+Used the `man` command to obtain the manual .Did not pay a lot of attention to the manual first missed the correct argument , went through the manual again to find the correct argument to obtain the flag. 
 ```
 hacker@man~reading-manuals:~$ man challenge
 hacker@man~reading-manuals:~$ /challenge/challenge - print the flag!
