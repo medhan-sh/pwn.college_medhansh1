@@ -4,7 +4,7 @@
 
 **Flag:** `pwn.college{MYaVXOppJ5Grrd41nrmlJW0sgtD.QXyMDO0wiN2kjNzEzW}`
 
-Used the find command with / and -name to find out the relvant files then read out the file to obtain the flag
+Used the find command with `/` and `-name` to find out the relvant files then read out the file to obtain the flag
 ```
 hacker@commands~finding-files:~$ find / -name flag 
 find: ‘/tmp/tmp.4mK6TfTSUV’: Permission denied
@@ -21,8 +21,8 @@ pwn.college{MYaVXOppJ5Grrd41nrmlJW0sgtD.QXyMDO0wiN2kjNzEzW}hacker@commands~findi
 ## What I learned
 
 1. The find command is used to search for files it can be used for various conditions with different arguments            describing different type of search location 
-2. using find with the '/' argument reffers to searching through every directory .
-3. using it with -name can search for the name for the file without defining its path .
+2. using find with the `/` argument reffers to searching through every directory .
+3. using it with `-name` can search for the name for the file without defining its path .
 ## References
 
 NONE
