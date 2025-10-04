@@ -17,8 +17,9 @@ pwn.college{QHaBVXbVqa54iOfcon0Wf7kl67u.QXzQDO0wiN2kjNzEzW}
 
 ## What I learned
 
-1. To interupt an command is waiting on input 
+1. To interupt an command is waiting on input from the terminal and causes the application to cleanly exit.
+2. To interupt we use ctrl+C
 
 ## References
 
-Add an references or videos you used while solving the challenge.
+NONE
