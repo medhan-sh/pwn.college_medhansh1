@@ -1,0 +1,26 @@
+# A Memory's a Heavy Burden
+
+Author: Indrath
+
+Category: Osint
+
+Difficulty: Medium . (FOR ME EASY!!! LUCKILY T^T)
+
+# Description
+You now find yourself in the place where many climbers have been laid to rest. A cold wind moves through the temple grounds, carrying whispers of the departed. Stone lanterns and marble graves reflect Buddhist traditions, their shadows stretching across the frost-covered earth.
+
+The temple rests in the shadow of a very iconic mountain, quiet and imposing. Every detail in the image, the arrangement of the graves, the lanterns, and the lingering scent of incense, holds clues to its true location. You need to uncover the exact coordinates of where you are to move on from here.
+
+Note: round off coordinates to 3 decimal places.
+
+Flag format: citadel{XX.XXX_XXX.XXX}
+
+# My solve
+Opening the picture first Hint lead to mount fuji, also this one i thinking people were having trouble with it so an extra hint was released "The view of the temple streets to the north of Mount Fuji 🗻  offers a splendid sight, doesn’t it?"
+This indeed offer some more info.
+But honestly just reverse-searched the image and luckily found results on reddit
+the first guy typing "can some1 help me find this temple" in hindi (Clutch guy) https://www.reddit.com/r/geoguessr/comments/1nygdv7/can_someone_help_me_find_this_exact_place/?tl=hi
+Fastest solve after #1 and #2
+
+Flag: citadel{35.486_138.699}
+
