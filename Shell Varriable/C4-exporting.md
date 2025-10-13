@@ -4,7 +4,7 @@
 
 **Flag:** `pwn.college{8jix1mUdylVAU5EME9k-JQ1E6I2.QXyYTN0wiN2kjNzEzW}`
 
-Assigned values to PWN and COLLEGE and exported PWN varriable then an the program as instructed to obtain the flag. I did not export COLLEGE but somehow it still worked.
+Assigned values to PWN and COLLEGE and exported PWN varriable as instructed to obtain the flag. I did not export COLLEGE but somehow it still worked.
 
 ```
 hacker@variables~exporting-variables:~$ export PWN=COLLEGE
